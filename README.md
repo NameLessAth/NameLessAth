@@ -1,10 +1,7 @@
 <div align="center">
-  <img
-    src="https://cdn.discordapp.com/attachments/1044425725291286579/1097400975339311144/image_3.png" />
+  <img src="https://cdn.discordapp.com/attachments/1044425725291286579/1097400975339311144/image_3.png" />
   <p align="center" style="font-family: 'Product Sans', sans-serif;"><h3><b>Average Coding Enthusiast Weeb</b></h3></p>
-  <img height="140px" 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Minor+(bug)+?+Smash+(the bug)."
-    alt="Typing SVG" style="filter: drop-shadow(2px 2px 1px #7b1a58);" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=C75EF7&background=6AFFFD00&center=true&width=435&lines=Coding+with+Coffee+(%E3%85%85%C2%B4+%CB%98+%60)%E2%99%A1;Minor(bug)+%3F+Smash(the+bug)%EF%BC%88*%C2%B4%E2%96%BD%EF%BD%80*%EF%BC%89;Hypercarry+your+project!+(%E0%B8%87'%CC%80-'%CC%81)%E0%B8%87" alt="Typing SVG" /></a>
   <br>
 </div>
 
